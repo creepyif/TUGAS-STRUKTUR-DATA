@@ -3,7 +3,6 @@
 #include <conio.h>
 using namespace std;
 
-int Ar[n];
 void quickSort(int arr[], int left, int right);
 
 int main(){
